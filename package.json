@@ -1,0 +1,34 @@
+{
+  "name": "aswin Sparky qr",
+  "version": "2.0.0",
+  "description": "Web pair for every bot",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node core.js"
+  },
+  "author": "aswin Sparky",
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "qrcode-terminal": "latest",
+    "cluster": "latest",
+    "crypto": "latest",
+    "child_process": "^1.0.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "readline": "latest",
+    "fs-extra": "^10.0.0",
+    "qr-image": "latest",
+    "qrcode": "latest",
+    "pino": "^8.1.0",
+    "path": "latest",
+    "express": "^4.18.2",
+    "axios": "^1.6.2",
+    "node-fetch": "^2.6.9"
+  },
+  "engines": {
+    "node": "21.5.0"  
+      
+  }
+}
+    
